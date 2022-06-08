@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WildberriesWeekSixFlow</string>
+    <string name="play">Play</string>
+    <string name="pause">pause</string>
+    <string name="reset">reset</string>
+    <string name="resume">resume</string>
+</resources>
